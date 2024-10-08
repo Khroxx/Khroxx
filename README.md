@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# I am a Junior Fullstack Developer with a focus on Backend systems using Python and Django
+I am currently looking for a Job
+I'm working on some open source projects
+
 <!--
 **Khroxx/Khroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
