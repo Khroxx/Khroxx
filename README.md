@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # I am a Junior Fullstack Developer with a focus on Backend systems using Python and Django
-I am currently looking for a Job <br>
+I'm currently looking for a Job <br>
 I'm working on some open source projects
 
 <!--
