@@ -17,16 +17,21 @@ I'm currently discovering other libraries, tinkering with possiblities. Thanks t
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg)"/>
 <br />
 
 #
 
-### Stats
+### 📊 Stats
 ![Bari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khroxx&show_icons=true&theme=merko)
 
 #
 
 <details>
   <summary><h3>Bari's Coding Journey</h3></summary>
-  test
+  As a young kid i started gaming and quickly wanted to create my own world. Yeah that did not end well, I was 11. Later in school, as we got IT lessons presented, I immediately started to feel at home. After my 8 year long journey in the german army i finally started to take Coding serious and began typing out my hearts desire. endless days and nights filled with joy, loud typing and problems to solve. 
 </details>
+
+#
+
+Looking for a parter in crime to create a open source full-stack project? I am your backbone.
