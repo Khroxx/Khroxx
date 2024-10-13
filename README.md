@@ -29,7 +29,7 @@ I'm currently discovering other libraries, tinkering with possiblities. Thanks t
 
 <details>
   <summary><h3>Bari's Coding Journey</h3></summary>
-  As a young kid i started gaming and quickly wanted to create my own world. Yeah that did not end well, I was 11. Later in school, as we got IT lessons presented, I immediately started to feel at home. After my 8 year long journey in the german army i finally started to take Coding serious and began typing out my hearts desire. endless days and nights filled with joy, loud typing and problems to solve. 
+  As a young kid i started gaming and quickly wanted to create my own world. Yeah that did not end well, I was 11. Later in school, as we got IT lessons, I immediately started to feel at home. After my 8 year long journey in the german army i finally started to take Coding serious and began typing out my hearts desire. Endless days and nights filled with joy, loud typing and problems to solve. That's where the real journey started and i finally was typing commands in a terminal, creating full-stack projects using different approaches, learned so much about software developing and still love every second doing so.
 </details>
 
 #
