@@ -33,5 +33,3 @@ I'm currently discovering other libraries, tinkering with possiblities. Thanks t
 </details>
 
 #
-
-Looking for a parter in crime to create a open source full-stack project? I am your backbone.
