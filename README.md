@@ -2,7 +2,7 @@
 
 **`Junior Fullstack Developer / sudo su`**
 
-I'm a linux loving full-stack developer trying to climb the ladder all the way up the cloud. I plan, code and deploy my projects ranging from ER Charts to simple Paint. Backends are my passion, python/django my affair. I'm efficient using Angular for it's OOP. <br>
+I'm a linux loving full-stack developer trying to climb the ladder all the way up the cloud. I plan, code and deploy my projects ranging from ER Charts to simple Paint. Backends are my passion, Go my affair. I'm efficient using Angular for it's OOP. <br>
 I'm currently discovering other libraries, tinkering with possiblities. Thanks to my never ending patience, my drive to solve problems starts when others tend to give up.
 
 ---
