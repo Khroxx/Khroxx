@@ -1,8 +1,8 @@
 # Bari 
 
-**`Junior Fullstack Developer / sudo su`**
+**`Fullstack Developer`**
 
-I'm a linux loving full-stack developer trying to climb the ladder all the way up the cloud. I plan, code and deploy my projects ranging from ER Charts to simple Paint. Backends are my passion, Go my affair. I'm efficient using Angular for it's OOP. <br>
+I'm a linux loving full-stack developer trying to climb the ladder all the way up the cloud. I plan, code and deploy my projects. Backends are my passion, Go my affair. I'm efficient using Angular for it's components. <br>
 I'm currently discovering other libraries, tinkering with possiblities. Thanks to my never ending patience, my drive to solve problems starts when others tend to give up.
 
 ---
@@ -25,12 +25,5 @@ I'm currently discovering other libraries, tinkering with possiblities. Thanks t
 
 ### 📊 Stats
 ![Bari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khroxx&show_icons=true&theme=merko)
-
-#
-
-<details>
-  <summary><h3>Bari's Coding Journey</h3></summary>
-  As a young kid i started gaming and quickly wanted to create my own world. Yeah that did not end well, I was 11. Later in school, as we got IT lessons, I immediately started to feel at home. After my 8 year long journey in the german army i finally started to take Coding serious and began typing out my hearts desire. Endless days and nights filled with joy, loud typing and problems to solve. That's where the real journey started and i finally was typing commands in a terminal, creating full-stack projects using different approaches, learned so much about software developing and still love every second doing so.
-</details>
 
 #
