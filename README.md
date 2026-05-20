@@ -26,6 +26,5 @@ Writing is easy, creating and deploying is hard, monitoring and fixing is what r
 ### 📊 Stats
 ![Bari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khroxx&show_icons=true&theme=merko)
 
-<img width="696" height="715" alt="image" src="https://github.com/user-attachments/assets/4b6644b1-2fec-4bf8-94f8-34582679c9bb" />
 
 #
