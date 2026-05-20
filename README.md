@@ -23,8 +23,8 @@ Writing is easy, creating and deploying is hard, monitoring and fixing is what r
 
 #
 
-### 📊 Stats
-![Bari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khroxx&show_icons=true&theme=merko)
+### 📊 
 
-
+![Oh no look](<img width="860" height="230" alt="khroxx-space-shooter" src="https://github.com/user-attachments/assets/0d0c44ad-444e-4ed4-b6b2-c4c35a50a16f" />
+)
 #
