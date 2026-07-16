@@ -1,9 +1,10 @@
-# Bari 
+# Bari
 
-**`Fullstack Developer`**
-
-I'm a full-stack software developer. I plan, code, deploy and monitor my projects.<br>
-Writing is easy, creating and deploying is hard, monitoring and fixing is what really counts.<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Bari's GitHub profile" src="dark_mode.svg">
+</picture>
 
 ---
 
@@ -27,7 +28,7 @@ Writing is easy, creating and deploying is hard, monitoring and fixing is what r
 
 #
 
-### 
+###
 
 ![Oh no look](khroxx-space-shooter.gif)
 #
