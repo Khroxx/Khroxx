@@ -1,4 +1,10 @@
-"""Generate dark_mode.svg / light_mode.svg profile cards. Stdlib only, run once by hand."""
+"""Generate profile.svg. Stdlib only, run once by hand.
+
+ponytail: single transparent-bg palette instead of dark/light SVG pair —
+GitHub's <picture> dark/light switch follows the browser's prefers-color-scheme,
+not the GitHub site theme toggle, so it picked the wrong file and showed a
+white card on a dark page. One card with border-only chrome sidesteps that.
+"""
 import html
 from datetime import date
 
@@ -18,10 +24,8 @@ CONTACT = [
     ("Email", "barisopa1@hotmail.com"),
 ]
 
-PALETTES = {
-    "dark": {"bg": "#0d1117", "border": "#30363d", "h": "#58a6ff", "k": "#ffa657", "v": "#c9d1d9", "d": "#484f58"},
-    "light": {"bg": "#ffffff", "border": "#d0d7de", "h": "#0969da", "k": "#953800", "v": "#24292f", "d": "#afb8c1"},
-}
+# mid-tone colors chosen for contrast on both white and near-black backgrounds
+PALETTE = {"border": "#8b949e", "h": "#6cb6ff", "k": "#f0883e", "v": "#adbac7", "d": "#8b949e"}
 
 
 def age(b, t):
@@ -63,14 +67,14 @@ def info_lines():
     return lines
 
 
-def render(mode):
-    p = PALETTES[mode]
+def render():
+    p = PALETTE
     lines = info_lines()
     height = 45 + len(lines) * 21 + 20
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="460" height="{height}" viewBox="0 0 460 {height}" '
         'font-family="Consolas, Menlo, monospace" font-size="13px">',
-        f'<rect x="0.5" y="0.5" width="459" height="{height - 1}" rx="10" fill="{p["bg"]}" stroke="{p["border"]}"/>',
+        f'<rect x="0.5" y="0.5" width="459" height="{height - 1}" rx="10" fill="none" stroke="{p["border"]}"/>',
     ]
     for i, segs in enumerate(lines):
         if not segs:
@@ -88,7 +92,6 @@ def selfcheck():
 
 if __name__ == "__main__":
     selfcheck()
-    for mode in PALETTES:
-        with open(f"{mode}_mode.svg", "w", encoding="utf-8") as f:
-            f.write(render(mode))
-    print("wrote dark_mode.svg, light_mode.svg")
+    with open("profile.svg", "w", encoding="utf-8") as f:
+        f.write(render())
+    print("wrote profile.svg")
