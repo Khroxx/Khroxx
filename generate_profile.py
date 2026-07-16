@@ -17,7 +17,7 @@ INFO = [
     ("Kernel", "Fullstack Developer"),
     ("IDE", "Neovim, Claude CLI"),
     None,
-    ("Languages.Programming", "Go, Python, JavaScript"),
+    ("Languages.Programming", "Go, JS & TS, Python"),
 ]
 
 CONTACT = [
@@ -67,14 +67,18 @@ def info_lines():
     return lines
 
 
+CHAR_W = 7.8  # Consolas/Menlo monospace advance width at font-size 13px
+
+
 def render():
     p = PALETTE
     lines = info_lines()
     height = 45 + len(lines) * 21 + 20
+    width = int(W * CHAR_W) + 50
     out = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="460" height="{height}" viewBox="0 0 460 {height}" '
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" '
         'font-family="Consolas, Menlo, monospace" font-size="13px">',
-        f'<rect x="0.5" y="0.5" width="459" height="{height - 1}" rx="10" fill="none" stroke="{p["border"]}"/>',
+        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10" fill="none" stroke="{p["border"]}"/>',
     ]
     for i, segs in enumerate(lines):
         if not segs:
